@@ -1,3 +1,3 @@
-# apnacollage-demo
+git status# apnacollage-demo
 This is  my first repo
-Author - Shraddha Mudage 
+Author -  My name is Shraddha  
