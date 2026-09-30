@@ -1,3 +1,3 @@
-git status# apnacollage-demo
-This is  my first repo
-Author -  My name is Shraddha  
+# Apna College Demo
+
+This is my Git and GitHub practice project.
